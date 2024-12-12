@@ -1,0 +1,18 @@
+.student-wrapper {
+    background-color: #efefef;
+    margin-bottom: 20px;
+    width: 100%;
+    padding-top: 10px;
+}
+.student-wrapper h1 {
+    margin: 20px 0;
+    font-size: 40px;
+    padding: 0;
+    color: cadetblue;
+}
+.student-wrapper p {
+    margin: 20px 0;
+    font-weight: bold;
+    font-size: 20px;
+}
+
