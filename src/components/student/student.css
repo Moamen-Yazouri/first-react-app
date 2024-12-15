@@ -15,4 +15,18 @@
     font-weight: bold;
     font-size: 20px;
 }
+.student-wrapper button {
+    background-color: cadetblue;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #777;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.student-wrapper > button {
+    margin-right: 10px;
+}
 
